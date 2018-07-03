@@ -1,7 +1,11 @@
-## Swing First
-created by Jackie Yan
+# Swing First
+Swing First
+Swing Hard
 
-### Controls
+Endlessly swing to higher stages and higher scores
+
+
+## Controls
 grapple/release : tap once
 
 reel in : tap & hold
@@ -12,5 +16,13 @@ drop : swipe down
 
 (unlockable) dash burst : swipe right
 
-### Contact
+## Coming Soon
+- score sharing
+- a way to earn extra gems
+- (unlockable) extra life
+
+## Contact
+
 For any questions or inquiries, contact : jackieyangames@gmail.com
+
+### Created by Jackie Yan

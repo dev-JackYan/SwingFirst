@@ -1,6 +1,7 @@
 # Swing First
-Swing First
-Swing Hard
+> Swing First
+>
+> Swing Hard
 
 Endlessly swing to higher stages and higher scores
 

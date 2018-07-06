@@ -17,10 +17,6 @@ drop : swipe down
 
 (unlockable) dash burst : swipe right
 
-## Coming Soon
-- score sharing
-- a way to earn extra gems
-- (unlockable) extra life
 
 ## Contact
 

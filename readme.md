@@ -23,3 +23,7 @@ drop : swipe down
 For any questions or inquiries, contact : jackieyangames@gmail.com
 
 ### Created by Jackie Yan
+
+[Terms & Services](terms.md)
+
+[Privacy Policy](privacy.md)
